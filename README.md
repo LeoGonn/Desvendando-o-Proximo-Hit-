@@ -1,7 +1,7 @@
 # Desvendando-o-Proximo-Hit:Análise de Dados e Previsão de Popularidade no Spotify.
 Desvendando o Próximo Hit: Análise de Dados e Previsão de Popularidade no Spotify.
 
-![CAPA](image/largura_800 (2).jpeg)
+![CAPA](image/capa_projeto.png)
 
 No dinâmico e implacável cenário da indústria musical, a pergunta que ecoa nos corredores das gravadoras, nos estúdios de artistas e nas sedes das plataformas de streaming é sempre a mesma: qual será o próximo hit? Identificar aquela melodia, aquele ritmo, que vai cativar milhões e dominar as paradas é o sonho e, ao mesmo tempo, o maior desafio. Artistas investem paixão e talento, gravadoras apostam fortunas, e plataformas como o Spotify buscam desesperadamente a faixa que definirá a próxima era. A capacidade de prever o sucesso de uma música antes mesmo de seu lançamento não é apenas uma vantagem competitiva; é a chave para otimizar estratégias, direcionar investimentos com sabedoria e garantir que a canção perfeita encontre seu caminho até o público.
 
