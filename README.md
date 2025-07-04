@@ -94,6 +94,4 @@ Estratégias de Lançamento: Informa sobre o potencial de inclusão em playlists
 
 Compreensão da Dinâmica de Sucesso: O gráfico reforça nossa compreensão da complexa dinâmica do Spotify. Nosso modelo não apenas previu um número, mas previu um número que faz sentido dentro do comportamento de popularidade observado, distinguindo músicas com potencial de hit da vasta maioria de músicas de baixo impacto.
 
-
-
-
+**Link do notebook**: https://github.com/LeoGonn/Desvendando-o-Proximo-Hit-/blob/main/Projeto_de_parceria(Desvendando_o_Pr%C3%B3ximo_Hit).ipynb
