@@ -22,7 +22,7 @@ Coeficiente de Determinação (R²): 0.88, indicando que 88% da variação na po
 
 **GRÁFICO DE PREVISÃO DO MODELO**
 
-![grafico_previsao_do modelo_dos dados do dataset](image/grafico de popularidade do modelo.png)
+![grafico_previsao_do modelo_dos dados do dataset](image/grafico_popularidade_modelo.png)
  Além dos números e das métricas, a verdadeira beleza de um modelo preditivo reside em sua capacidade de visualizar a precisão. É aqui que a teoria encontra a prática, e a complexidade dos algoritmos se traduz em uma imagem clara e intuitiva do desempenho do nosso sistema.
 
 Nosso gráfico de dispersão, intitulado "Popularidade Real vs Popularidade Prevista", serve como o espelho onde o nosso modelo reflete a realidade do sucesso musical no Spotify.
@@ -68,7 +68,7 @@ Este "afinador" nos mostra que o nosso modelo não só toca a melodia do sucesso
 
 
 **GRAFICO FINAL, OBJETIVO DO PROJETO**
-![gráfico da nova musica prevista](image/grafico da nova musica.png)
+![gráfico da nova musica prevista](image/grafico_musica_nova.png)
 
 Nosso gráfico, "Distribuição da Popularidade das Músicas do Spotify com Previsão da nova Música", é o ponto culminante do nosso esforço, cumprindo diretamente o objetivo do projeto ao posicionar visualmente o potencial de um novo lançamento.
 O Que o Gráfico nos Mostra:
